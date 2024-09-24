@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-
+import { IonicModule } from '@ionic/angular';
+import { NewsCardComponent } from './news-card.component';
 
 @NgModule({
-  declarations: [],
-  imports: [
-    CommonModule
-  ]
+  imports: [CommonModule, IonicModule],
+  declarations: [NewsCardComponent],
+  exports: [NewsCardComponent],
 })
-export class NewsCardModule { }
+export class NewsCardComponentModule {}

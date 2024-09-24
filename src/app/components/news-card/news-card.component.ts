@@ -1,14 +1,14 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { ArticlesEntity } from 'src/app/interfaces/news-response';
 
 @Component({
   selector: 'app-news-card',
   templateUrl: './news-card.component.html',
   styleUrls: ['./news-card.component.scss'],
 })
-export class NewsCardComponent  implements OnInit {
-
-  constructor() { }
+export class NewsCardComponent implements OnInit {
+  @Input() news!: ArticlesEntity; // Garantindo que o valor será atribuído
+  constructor() {}
 
   ngOnInit() {}
-
 }
