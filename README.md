@@ -19,6 +19,24 @@ O App de Notícias Personalizado permite que os usuários escolham seus temas de
 - **Angular**
 - **REST APIs**
 
+## Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/ProjetoMobile-AppDeNoticias.git
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd ProjetoMobile-AppDeNoticias
+
+3. Instale as dependências:
+    ```bash
+    npm install
+
+4. Execute o aplicativo:
+    ```bash
+    ionic serve
+
 ## Como Contribuir
 
 Leia as instruções no arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para saber como colaborar com este repositório.
