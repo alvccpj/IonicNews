@@ -1,0 +1,7 @@
+{
+  "name": "SeminarioMobile-AppDeNoticias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
