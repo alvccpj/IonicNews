@@ -23,11 +23,11 @@ O App de Notícias Personalizado permite que os usuários escolham seus temas de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ProjetoMobile-AppDeNoticias.git
+   git clone https://github.com/seu-usuario/IonicNews.git
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd ProjetoMobile-AppDeNoticias
+    cd IonicNews
 
 3. Instale as dependências:
     ```bash
