@@ -51,4 +51,4 @@ Este projeto está licenciado sob a Licença Creative Commons, conforme descrito
 - **Arthur Sales**
 - **Ítalo Waldecy**
 - **Victor Emery**
-- **Henrique**
+- **Henrique Márcio**
